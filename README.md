@@ -3,7 +3,7 @@
 ## Stats:
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AB-Alex123&show_icons=true&theme=dark)
 
-[![Lang List](https://github-readme-stats.vercel.app/api/top-langs/?username=AB-Alex123&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Lang List](https://github-readme-stats.vercel.app/api/top-langs/?username=AB-Alex123&layout=compact&theme=dark)](https://github.com/AB-Alex/github-readme-stats)
 
 ## About Me:
 * I'm interested in programming (duh)
