@@ -7,7 +7,7 @@
 
 ## About Me:
 * I'm interested in programming (duh)
-* I use Linux and I am fluent in bash 
+* I use Linux and I am fluent in shell scripting 
 * I love open source software
 * In my free time I usually watch anime 
 
