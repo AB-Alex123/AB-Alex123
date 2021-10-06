@@ -22,3 +22,5 @@
 8. Make my own shell script (I want it to be super fast!)
 9. Make my own bootloader
 10. Make my own operating system 
+
+I also hope to learn js along the way :)
