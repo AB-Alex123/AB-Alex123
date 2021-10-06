@@ -13,7 +13,7 @@
 
 ## TODO: 
 1. Make a Arch, Gentoo, and KISS install script (these do all ready exist but mine will be cooler c; )
-2. Make the ultimate hackintosh! (host)
+2. Learn how to better use vim
 3. Make my own Discord bot (general purpose ie: plays music, auto bans, etc)
 4. Make my own browser
 5. Make my own Linux distribution (Not based off Arch or anything like that just based c; ) 
